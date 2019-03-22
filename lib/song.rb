@@ -24,4 +24,5 @@ class Song
      genres.size 
   end
   
+  def
 end
