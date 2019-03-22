@@ -8,7 +8,7 @@ class Song
     @@genres << name if !@@genres.include?(name)
   end
   def self.count
-    @@song_count
+    @@songs.size
   end
   
 end
