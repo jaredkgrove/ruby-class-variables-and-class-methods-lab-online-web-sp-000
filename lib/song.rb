@@ -1,5 +1,5 @@
 class Song 
-  @@song_count = 0
+  @@songs = []
   def self.count
     @@song_count
   end
