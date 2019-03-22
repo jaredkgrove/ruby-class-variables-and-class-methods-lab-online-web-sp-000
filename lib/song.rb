@@ -31,5 +31,7 @@ class Song
      genre_hash
   end
   
-  def
+  def self.artists_count
+    
+  end
 end
