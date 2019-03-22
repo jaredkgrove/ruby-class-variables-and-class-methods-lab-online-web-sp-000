@@ -26,6 +26,7 @@ class Song
   end
     
   def self.genre_count
+     genre_hash = {}
      @genres.map {|genre| [genre, @@genres.]
   end
   
