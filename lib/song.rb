@@ -7,8 +7,11 @@ class Song
     @@artists << name if !@@artists.include?(name)
     @@genres << name if !@@genres.include?(name)
   end
+  
   def self.count
     @@songs.size
   end
+  
+  def
   
 end
