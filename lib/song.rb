@@ -12,6 +12,8 @@ class Song
     @@songs.size
   end
   
-  def
+  def self.artists
+    @@artists
+  end
   
 end
